@@ -17,4 +17,4 @@ https://jakevdp.github.io/PythonDataScienceHandbook/
   * Principal Component Analysis
 
  
- 
+ ![](dap-cert.png)
