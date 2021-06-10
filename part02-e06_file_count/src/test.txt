@@ -1,0 +1,8 @@
+Create a function file_count that gets a filename as parameter and return a triple of numbers. The function should read the file, count the number of lines, words, and characters in the file, and return a triple with these count in this order. You get division into words by splitting at whitespace, you don't have to remove punctuation.
+
+Part 2.
+
+Create a main function that calls file_count for each filename in the list of command line parameters sys.argv[1:]. For call python3 src/file_count file1 file2 ... the output should be
+
+
+The fields are separated by tabs (\t). The fields are in order: linecount, wordcount, charactercount, filename.

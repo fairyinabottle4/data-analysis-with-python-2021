@@ -1,0 +1,5 @@
+file1.txt
+mydocument.pdf
+file2.txt
+archive.tar.gz
+test

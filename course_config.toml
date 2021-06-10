@@ -1,0 +1,364 @@
+course = 'hy-data-analysis-with-python-summer-2021'
+[exercises.part01-e01_hello_world]
+id = 128769
+checksum = 'd1d374bd30e433577180e0289b4be079'
+
+[exercises.part01-e02_compliment]
+id = 128764
+checksum = 'c5b3871c139657c1bd2bf79c49f2f6bb'
+
+[exercises.part01-e03_multiplication]
+id = 128756
+checksum = 'f69a5426ffbff2cc746e4285816a0257'
+
+[exercises.part01-e04_multiplication_table]
+id = 128762
+checksum = 'd1d91f3667809648fadacaef3f739f2c'
+
+[exercises.part01-e05_two_dice]
+id = 128759
+checksum = '00ef52530f7d2abdf074b298874d8d4d'
+
+[exercises.part01-e06_triple_square]
+id = 128755
+checksum = '7fe79f74f0e180c9ed8faf3ebe7c71b6'
+
+[exercises.part01-e07_areas_of_shapes]
+id = 128754
+checksum = '6bd56dee9f99a21cd9391f0f112616a4'
+
+[exercises.part01-e08_solve_quadratic]
+id = 128758
+checksum = '9d476518b7a4c08619dbade352cc0d06'
+
+[exercises.part01-e09_merge]
+id = 128767
+checksum = 'c33fc086579ab6e13cb1e5e8922a9080'
+
+[exercises.part01-e10_detect_ranges]
+id = 128766
+checksum = '762b151f74abcf56116cd5506aab855a'
+
+[exercises.part01-e11_interleave]
+id = 128768
+checksum = '858de0756683ab1548d8b829660e0136'
+
+[exercises.part01-e12_distinct_characters]
+id = 128761
+checksum = '8d276adb6f602ccca1b0b71035616259'
+
+[exercises.part01-e13_reverse_dictionary]
+id = 128763
+checksum = '4fd3c1e6576c05e64f5f651f842ea5d2'
+
+[exercises.part01-e14_find_matching]
+id = 128765
+checksum = '62f3ac44477e24a8fad5ba6653e26cf9'
+
+[exercises.part01-e15_two_dice_comprehension]
+id = 128753
+checksum = '052823ea2dc32f04fdb37219d6875064'
+
+[exercises.part01-e16_transform]
+id = 128750
+checksum = '947c90d87d144b9ea2438e567e760df7'
+
+[exercises.part01-e17_positive_list]
+id = 128751
+checksum = '106446edf0e1ec7e4b0ffed03f058f25'
+
+[exercises.part01-e18_acronyms]
+id = 128752
+checksum = '6ff7c1b2e7c92466debd7f610271158b'
+
+[exercises.part01-e19_sum_equation]
+id = 128760
+checksum = '3c2468f5065992e44116b50b1f9a2f9c'
+
+[exercises.part01-e20_usemodule]
+id = 128757
+checksum = '28f71bbc22dc24f598013f6e0491fea0'
+
+[exercises.part02-e01_integers_in_brackets]
+id = 128721
+checksum = '431cf9180cc0c353e2893a35ac2374c0'
+
+[exercises.part02-e02_file_listing]
+id = 128723
+checksum = 'a7b6f16c83c7f0150528a48c94c49cb1'
+
+[exercises.part02-e03_red_green_blue]
+id = 128726
+checksum = 'd6479e6d74e0cd79a3f1fed04b10a30e'
+
+[exercises.part02-e04_word_frequencies]
+id = 128724
+checksum = '836300a839065b39bcbdfb341df57fcc'
+
+[exercises.part02-e05_summary]
+id = 128733
+checksum = 'a815feda70c1ef96e62d7ca3263dbfaf'
+
+[exercises.part02-e06_file_count]
+id = 128730
+checksum = 'c9171fc30e3406204fee8e9f2069435b'
+
+[exercises.part02-e07_file_extensions]
+id = 128728
+checksum = 'a0bf94652ace609c21d254f4078817c2'
+
+[exercises.part02-e08_prepend]
+id = 128735
+checksum = 'ce3473fdd3f262eff82d9557ae419f16'
+
+[exercises.part02-e09_rational]
+id = 128722
+checksum = 'e7b78a952836894fca30cd451edfec09'
+
+[exercises.part02-e10_extract_numbers]
+id = 128731
+checksum = 'dff65a086340b67266871b04b0c84172'
+
+[exercises.part02-e11_rows_and_columns]
+id = 128725
+checksum = '3a7254a9cc367897276fa6255759e7b8'
+
+[exercises.part02-e12_row_and_column_vectors]
+id = 128727
+checksum = 'eb34d0001bbb79967260abe6853ebf88'
+
+[exercises.part02-e13_diamond]
+id = 128729
+checksum = '4e3e28f101aedd57d97c239cca2212df'
+
+[exercises.part02-e14_vector_lengths]
+id = 128732
+checksum = '1dbe7bfc0697a8cab191fbe3985e72d5'
+
+[exercises.part02-e15_vector_angles]
+id = 128734
+checksum = '45e6a8c92899febc975d6471be332835'
+
+[exercises.part02-e16_multiplication_table_revisited]
+id = 128720
+checksum = 'e0d5bede89ce32e17690b3e8eb02e2dd'
+
+[exercises.part03-e01_column_comparison]
+id = 128800
+checksum = '0f200a31ccf497c1a7e7af8a65c72272'
+
+[exercises.part03-e02_first_half_second_half]
+id = 128805
+checksum = '3b3e0fb94bd674c2eb4ebab2f8bd31e8'
+
+[exercises.part03-e03_most_frequent_first]
+id = 128809
+checksum = '70ce3d3b7de674c699d6bcc93cce397f'
+
+[exercises.part03-e04_matrix_power]
+id = 128798
+checksum = '37487d7c6a97d6364dc8ebe5043e2f4a'
+
+[exercises.part03-e05_correlation]
+id = 128808
+checksum = '56d14e11f92c2b669db9ffaeb42e845e'
+
+[exercises.part03-e06_meeting_lines]
+id = 128806
+checksum = '99b271998bc45f4d791131dbb471813e'
+
+[exercises.part03-e07_meeting_planes]
+id = 128810
+checksum = '4c92d78319e5a98034094d53f7b2b087'
+
+[exercises.part03-e08_almost_meeting_lines]
+id = 128801
+checksum = '0fd052365ce1895c372d93f4908b6825'
+
+[exercises.part03-e09_multiple_graphs]
+id = 128804
+checksum = '131c98aa1b3037b9cec3544f13edacda'
+
+[exercises.part03-e10_subfigures]
+id = 128799
+checksum = 'a2e850e244393776197cbd1462cdbbb7'
+
+[exercises.part03-e11_to_grayscale]
+id = 128797
+checksum = '4bf51ae2787ca84a3194d9e969e68577'
+
+[exercises.part03-e12_radial_fade]
+id = 128803
+checksum = '809064d36205fa66093d7dbaf0657d4d'
+
+[exercises.part03-e13_read_series]
+id = 128802
+checksum = 'c13e59eeacee2b1abc99f90482aaf68b'
+
+[exercises.part03-e14_operations_on_series]
+id = 128807
+checksum = 'fec8c98e3a3e888d71576c9e82e90a68'
+
+[exercises.part03-e15_inverse_series]
+id = 128796
+checksum = '7d5d765c739d99368dc3e2e01689cd40'
+
+[exercises.part04-e01_cities]
+id = 128788
+checksum = 'c57568f41d96e980217b01a966ba6a8a'
+
+[exercises.part04-e02_powers_of_series]
+id = 128781
+checksum = '9a6fbcc5ae36c85c48649cf68b953974'
+
+[exercises.part04-e03_municipal_information]
+id = 128778
+checksum = '821fc92a73f3b9188734d44e440c9c76'
+
+[exercises.part04-e04_municipalities_of_finland]
+id = 128786
+checksum = 'a21b2284c4bcf405515845d429a59c76'
+
+[exercises.part04-e05_swedish_and_foreigners]
+id = 128794
+checksum = '255b74473d4b47390369ab8fae23169a'
+
+[exercises.part04-e06_growing_municipalities]
+id = 128779
+checksum = '90a1c536cb66198577dc8013eb917a3e'
+
+[exercises.part04-e07_subsetting_with_loc]
+id = 128782
+checksum = '9dd60571a4bcbf19d972a6d01f6ec2b5'
+
+[exercises.part04-e08_subsetting_by_positions]
+id = 128785
+checksum = 'fd68dd9bdfc9806b3a09fcd3d96a4fea'
+
+[exercises.part04-e09_snow_depth]
+id = 128791
+checksum = 'f05756aadd42b47b6ff4112bdda9dc6a'
+
+[exercises.part04-e10_average_temperature]
+id = 128784
+checksum = '55a807e3b40aa9877c2ce68a812af4f0'
+
+[exercises.part04-e11_below_zero]
+id = 128789
+checksum = '5b02e36f9aacac5825bb65744d5c199c'
+
+[exercises.part04-e12_cyclists]
+id = 128780
+checksum = '7b20fcd7a35971e983745097edf891f0'
+
+[exercises.part04-e13_missing_value_types]
+id = 128783
+checksum = '6175b4576a21f4c5fd7734f52f7e24b9'
+
+[exercises.part04-e14_special_missing_values]
+id = 128787
+checksum = 'c838314624462597c1b1251327fa3907'
+
+[exercises.part04-e15_last_week]
+id = 128792
+checksum = 'e6d954442d899e51ca33eccae4424a11'
+
+[exercises.part04-e16_split_date]
+id = 128790
+checksum = '8c5f0343a3f0cb97512593b6b60f9127'
+
+[exercises.part04-e17_cleaning_data]
+id = 128793
+checksum = 'e8d7b7400e6f2bd4d2e4078444ddc70f'
+
+[exercises.part05-e01_split_date_continues]
+id = 128738
+checksum = '7d6cd0e50b45923fe617057934554f27'
+
+[exercises.part05-e02_cycling_weather]
+id = 128748
+checksum = 'f6cadc363fab288911343e904eac5268'
+
+[exercises.part05-e03_top_bands]
+id = 128744
+checksum = '3008a1360b05d2474a825a14b54d6a36'
+
+[exercises.part05-e04_cyclists_per_day]
+id = 128746
+checksum = 'a4d66ef30f55d148951d44105a2f5750'
+
+[exercises.part05-e05_best_record_company]
+id = 128737
+checksum = '625828bedeb8f17e295de673e8a3533e'
+
+[exercises.part05-e06_suicide_fractions]
+id = 128740
+checksum = '9c17960497ddeb3af31f58eacb782a25'
+
+[exercises.part05-e07_suicide_weather]
+id = 128742
+checksum = 'd81ba35a84d0ed7340133e7b77dccc48'
+
+[exercises.part05-e08_bicycle_timeseries]
+id = 128739
+checksum = 'b945468bd0e6adcfe3390f1c6d99e43d'
+
+[exercises.part05-e09_commute]
+id = 128741
+checksum = '881e8f3563ca922fb99a326ed3f652fd'
+
+[exercises.part05-e10_linear_regression]
+id = 128749
+checksum = '41032e389ceafceb2f6ea8d3cdba690a'
+
+[exercises.part05-e11_mystery_data]
+id = 128745
+checksum = 'e48be15ea72cd7bdd4ee06d347e6ab39'
+
+[exercises.part05-e12_coefficient_of_determination]
+id = 128743
+checksum = 'dbc690823a00472655946f0e58d98593'
+
+[exercises.part05-e13_cycling_weather_continues]
+id = 128747
+checksum = '081bafe49456fa8374003c4b402875fa'
+
+[exercises.part06-e01_blob_classification]
+id = 128774
+checksum = 'a40b7bd8faf8d85fb04037c30cee888b'
+
+[exercises.part06-e02_plant_classification]
+id = 128773
+checksum = 'd7ed4bb3f1f100c88c606cd3b281457e'
+
+[exercises.part06-e03_word_classification]
+id = 128777
+checksum = '6902cfc7a72443f79acdfef3d5a93089'
+
+[exercises.part06-e04_spam_detection]
+id = 128772
+checksum = '2f118bebcdac7db2d344589585c021bd'
+
+[exercises.part06-e05_plant_clustering]
+id = 128770
+checksum = 'b51b8a37a8626035d7359f0f9bafd456'
+
+[exercises.part06-e06_nonconvex_clusters]
+id = 128771
+checksum = '24749dd41611654e2ad5ccd1303bfe76'
+
+[exercises.part06-e07_binding_sites]
+id = 128776
+checksum = '45acd6059b822d236cfca45f740038e2'
+
+[exercises.part06-e08_explained_variance]
+id = 128775
+checksum = '791843db94039148af5915df12b5b035'
+
+[exercises.part07-e01_sequence_analysis]
+id = 128795
+checksum = '6dc20fb2d9bafc437388c3f760f502a3'
+
+[exercises.part08-e01_regression]
+id = 128736
+checksum = '0bcec44778faa92b8a0bef8c5af26f09'
