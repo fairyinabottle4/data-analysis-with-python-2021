@@ -1,7 +1,8 @@
 # Data Analysis With Python - Summer 2021
 ## An MOOC offered by the University of Helsinki
 
-### The course is based on Jake VanderPlas' renowned book, _Python Data Science Handbook: Essential Tools for Working with Data_
+### The course is based on Jake VanderPlas' renowned book, _Python Data Science Handbook: Essential Tools for Working with Data_ 
+https://jakevdp.github.io/PythonDataScienceHandbook/
 
 <p>Topics covered:
 
@@ -14,3 +15,6 @@
   * Gaussian and Multinomial naive Bayes classification
   * KMeans, DBScan and Agglomerative clusering
   * Principal Component Analysis
+
+ 
+ 
